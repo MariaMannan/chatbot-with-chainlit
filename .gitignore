@@ -11,3 +11,4 @@ wheels/
 .chainlit/
 .files/
 uv.lock
+.env
